@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e53ad7f3-dce0-4e94-9ebd-f2ff9dfdba3a)# RSL-Odds
+# RSL-Odds
 
 ### An odds calculator and visualiser for unit drop rates in the mobile game Raid Shadow Legends
 
